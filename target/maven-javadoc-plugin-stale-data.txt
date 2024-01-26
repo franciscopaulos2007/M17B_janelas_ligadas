@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/DPED/a17736/NetBeansProjects/projeto_janelas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projeto_janelas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'projeto_janelas 1.0-SNAPSHOT API'
+psi.o.projeto_janelas
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/src/main/java = 1706206096613
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/index.html = 1706267442492
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/element-list = 1706267442388
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/type-search-index.js = 1706267442476
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/module-search-index.js = 1706267442476
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/index-all.html = 1706267442492
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/jquery-ui.overrides.css = 1706267442508
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/allclasses-index.html = 1706267442472
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/serialized-form.html = 1706267442444
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/tag-search-index.js = 1706267442476
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/help-doc.html = 1706267442500
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/member-search-index.js = 1706267442476
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/search.js = 1706267442500
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/script.js = 1706267442500
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/stylesheet.css = 1706267442500
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/package-search-index.js = 1706267442476
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/overview-tree.html = 1706267442460
+/home/DPED/a17736/NetBeansProjects/projeto_janelas/target/site/apidocs/allpackages-index.html = 1706267442476
